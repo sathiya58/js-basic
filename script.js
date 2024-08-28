@@ -12,7 +12,7 @@ let looping=[100,200,300,400,500]
 })
 
 
-//map
+// map looping
 const mapretArr=looping.map((item,index)=>{
   console.log(item);
   console.log(index);
